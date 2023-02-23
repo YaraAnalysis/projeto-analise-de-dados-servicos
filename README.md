@@ -1,10 +1,11 @@
 # Projeto de Análise de Dados
 
 
-Temos os dados de uma empresa de prestação de serviços separados em 3 arquivos:  <br/>
-CadastroFuncionarios <br/>
-CadastroClientes <br/>
-BaseServiçosPrestados <br/>
+Temos os dados de uma empresa de prestação de serviços.<br/>
+As informações da empresa estão separadas em 3 arquivos:  <br/>
+- CadastroFuncionarios <br/>
+- CadastroClientes <br/>
+- BaseServiçosPrestados <br/>
 
 
 # Este programa calcula, com base nas informações contidas na base de dados: <br/>
