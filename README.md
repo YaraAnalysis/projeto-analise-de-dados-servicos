@@ -15,3 +15,7 @@ As informações da empresa estão separadas em 3 arquivos:  <br/>
 4 - Quantidade de Contratos por Área<br/>
 5 - Funcionários por Área<br/>
 6 - Ticket Médio Mensal<br/>
+
+# Tecnologias utilizadas
+Linguagem: Python<br/>
+Editor: Jupyter<br/>
